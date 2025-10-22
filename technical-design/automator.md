@@ -1,5 +1,7 @@
 # Automator
 
+Go to [Automator](https://dapp.sofa.org/products?project=Automator)
+
 ## Introduction
 
 In our mission to democratise option trading for the masses, the SOFA team has created **Automator** as an intuitive way for users to earn strategy yields passively.  By leveraging a community of strategy managers, collectively known as **Optivisors, **users are able to participate in their favourite managed strategies in return for sharing a small upside profit fee.  This win-win model will provide decentralized and on-chain access for depositors to earn a variety of high quality returns with an evolving base of community recognized Optivisors.
