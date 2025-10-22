@@ -4,7 +4,7 @@
 
 ## **What is SOFA.org?**
 
-SOFA.org is a **decentralized, non-profit organization** focused on advancing the DeFi ecosystem. Our modus operandi is to promote the highest DeFi standards, support high-quality projects, and promote adoption of blockchain technologies across mainstream finance.
+[SOFA.org](https://www.sofa.org) is a **decentralized, non-profit organization** focused on advancing the DeFi ecosystem. Our modus operandi is to promote the highest DeFi standards, support high-quality projects, and promote adoption of blockchain technologies across mainstream finance.
 
 ## SOFA.org will operate as a DAO concentrating on three key areas in DeFi
 
