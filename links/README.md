@@ -1,6 +1,6 @@
 # Links
 
-- [Official Website](https://www.sofa.org/)
+- [Official Website](https://www.sofa.org)
   - [SOFA Earn](https://dapp.sofa.org/products/customize?project=Earn)
   - [SOFA Surge](https://dapp.sofa.org/products/customize?project=Surge)
   - [SOFA Dual](https://dapp.sofa.org/products/customize?project=Dual)
